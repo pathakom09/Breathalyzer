@@ -4,7 +4,6 @@ matplotlib
 seaborn
 openpyxl
 streamlit
-pickle
 os
 scikit-learn
 scipy
