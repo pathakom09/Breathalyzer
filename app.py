@@ -10,7 +10,12 @@ st.title('Nostril Predictor')
 model = pickle.load(open('model.pkl', 'rb'))
 model2 = pickle.load(open('model2.pkl', 'rb'))
 
-additional_data = pd.read_csv('S-W-D data.csv')
+#additional_data = pd.read_csv('S-W-D data.csv')
+
+url = "https://drive.google.com/uc?id=1l8nA0VQecN54oKlSLpuQs54JXnAqn__9"
+additional_data = pd.read_csv(url)
+
+
 
 # User inputs for the prediction
 temp = st.text_input('Enter the Right temperature: ')
