@@ -7,3 +7,4 @@ streamlit
 pickle
 os
 scikit-learn
+scipy
