@@ -1,6 +1,5 @@
 <img width="1436" height="862" alt="image" src="https://github.com/user-attachments/assets/4917e1f1-81df-4f7e-bd6d-00e47256354a" />
-🚀 Project Title & Tagline
-========================
+🚀 
 **Breathmetrics: Analyzing Breathing Data for Better Health Insights** 🌟
 Breathmetrics is an innovative project that utilizes advanced algorithms and machine learning techniques to analyze breathing data, providing valuable insights into respiratory health.
 
@@ -71,7 +70,7 @@ To test the Breathmetrics project, follow these steps:
 📸 Screenshots
 ================
 Here are some screenshots of the Breathmetrics project in action:
-* **Streamlit App**: [Screenshot of Streamlit app]<img width="1436" height="862" alt="image" src="https://github.com/user-attachments/assets/81028875-2ee4-4d5d-b44b-95b76ea63de9" />
+* **Streamlit App**: <img width="1436" height="862" alt="image" src="https://github.com/user-attachments/assets/81028875-2ee4-4d5d-b44b-95b76ea63de9" />
 
 * **Detection Results**: [Screenshot of detection results]<img width="799" height="723" alt="image" src="https://github.com/user-attachments/assets/556bdb08-7be2-436a-b977-a985d07e317f" />
 <img width="994" height="691" alt="image" src="https://github.com/user-attachments/assets/323d344f-8096-4870-9810-764decd15c49" />
@@ -87,4 +86,4 @@ The Breathmetrics project includes a comprehensive API reference for easy integr
 
 👤 Author
 ================
-The Breathmetrics project was developed by [Your Name](https://github.com/pathakom09).
+The Breathmetrics project was developed by [Om Pathak](https://github.com/pathakom09).
